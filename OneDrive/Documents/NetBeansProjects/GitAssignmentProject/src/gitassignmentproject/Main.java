@@ -10,7 +10,7 @@ package gitassignmentproject;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello NetBeans. This is the MAIN branch version.");
+        System.out.println("Hello NetBeans.This is the MAIN branch version.");
     }
     
 }
